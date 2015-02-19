@@ -10,11 +10,11 @@ world_cup_news
 
 # enter your solutions inside the methods
 def goal(goal_message)
-
+  goal_message + goal_message
 end
 
 def generate_an_array_of_teams(team_list)
-
+  
 end
 
 def number_of_teams(team_list)
